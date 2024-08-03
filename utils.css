@@ -1,0 +1,26 @@
+.text-center{
+    font-size: 30px;
+    text-align: center;
+}
+
+.mx-auto{
+    width: 100%;
+}
+.dgrey{
+    background-color: grey;
+}
+.grey{
+    background-color: lightgrey;
+}
+.yellow{
+    background-color:orange;
+}
+.flex {
+display: flex;
+} 
+.flex-col{
+    flex-direction: column;
+} 
+.items-center{
+    align-items: center;
+}
